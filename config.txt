@@ -1,0 +1,2 @@
+http://api.weatherstack.com/current?access_key=ab088e158f6760a6af3dc21cafec16d9&query=37.8267,-122.4233
+https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=pk.eyJ1IjoiamFpcy1teXZpamF5IiwiYSI6ImNrZ3NsdG5rcTAxM2kyeHB0a2U3bDdiZW8ifQ.BOmlOu4v3D9vuIJj7bUKzA&limit=1
