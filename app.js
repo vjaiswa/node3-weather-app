@@ -1,3 +1,4 @@
+console.log("Hello")
 const geoCodeObject = require('./utils/geocode')
 const forecastObject = require('./utils/forecast.js')
 const command = process.argv[2]
